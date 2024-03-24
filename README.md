@@ -3,6 +3,7 @@ Hello!
 In "main" branch You can find my Python machine learning projects:
 - a program that vefifies the ID
 - a program that predicts another word of a text
+- a simple computer vision program
 
 In "sensor" branch You can find program to control the proximity sensor via ESP32.
 
