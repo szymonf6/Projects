@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/gui">
+    <file alias="qmldir">C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/gui/qmldir</file>
+  </qresource>
+</RCC>
+

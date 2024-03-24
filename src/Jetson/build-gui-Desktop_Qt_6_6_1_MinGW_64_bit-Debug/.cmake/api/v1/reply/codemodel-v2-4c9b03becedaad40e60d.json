@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a19eb7025a0d595bf343.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gui",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-9c68a39fe535bf1a54ce.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-11a0086f47f033d93fe9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-25642e060765182c5f4a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-12aa57a728f21587bf46.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui-Debug-79ec29d2da64e9c51fe7.json",
+					"name" : "appgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_autogen-Debug-7e53ae63b6dc2c7d96ae.json",
+					"name" : "appgui_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_autogen_timestamp_deps-Debug-54e6f5d5a41cc5479e99.json",
+					"name" : "appgui_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_qmlimportscan-Debug-3b84dd155c6162ce0bf8.json",
+					"name" : "appgui_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_qmllint-Debug-5ecb9fb171e955382677.json",
+					"name" : "appgui_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_qmllint_json-Debug-9e81fcf14376aaef7247.json",
+					"name" : "appgui_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_qmllint_module-Debug-faebd341e9f93fbe5d74.json",
+					"name" : "appgui_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_qmltyperegistration-Debug-8946a39543bfee05586b.json",
+					"name" : "appgui_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appgui_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appgui_tooling-Debug-23ae90ea36e08bd4aa4c.json",
+					"name" : "appgui_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

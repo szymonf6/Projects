@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/gui/">
+    <file alias="Main.qml">C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/Main.qml</file>
+    <file alias="assets.qrc">C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets.qrc</file>
+  </qresource>
+</RCC>
+

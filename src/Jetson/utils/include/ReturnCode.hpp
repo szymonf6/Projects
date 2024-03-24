@@ -1,0 +1,11 @@
+#ifndef RETURNCODE_HPP
+#define RETURNCODE_HPP
+
+enum ReturnCode
+{
+    RETURN_OK,
+    RETURN_NOT_OK,
+    RETURN_NOT_IMPLEMENTED,
+};
+
+#endif // RETURNCODE_HPP

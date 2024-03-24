@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui
+-cmake-output
+-output-file
+C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appgui.cmake
+-importPath
+C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/gui
+-importPath
+C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.6.1/mingw_64/./qml
+-qrcFiles
+C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmake_gui.qrc
+C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/appgui_raw_qml_0.qrc

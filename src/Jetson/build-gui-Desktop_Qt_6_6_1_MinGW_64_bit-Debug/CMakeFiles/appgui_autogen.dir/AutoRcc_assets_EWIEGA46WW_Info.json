@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appgui_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui",
+	"CMAKE_SOURCE_DIR" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui",
+	"INCLUDE_DIR" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appgui_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets/left.png",
+		"C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets/mijania.png",
+		"C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets/back.png",
+		"C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets/lightningspeed.jpg",
+		"C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets/gui.png",
+		"C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets/right.png",
+		"C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets/warning.png"
+	],
+	"LOCK_FILE" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/appgui_autogen.dir/AutoRcc_assets_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "assets" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_assets.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/appgui_autogen.dir/AutoRcc_assets_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/gui/assets.qrc",
+	"VERBOSITY" : 0
+}

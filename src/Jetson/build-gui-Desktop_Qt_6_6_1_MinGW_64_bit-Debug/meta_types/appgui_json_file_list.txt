@@ -1,0 +1,1 @@
+C:/Users/szymo/Desktop/Eko-Energia/Perla/src/Jetson/build-gui-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appgui_autogen/include/../EWIEGA46WW/moc_car.cpp.json
